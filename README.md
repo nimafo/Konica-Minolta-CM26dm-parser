@@ -1,7 +1,6 @@
 # Spectral material parser
-## Konica Minolta CM26dm parser
 A lightweight Python class for processing reflectance data from:
-1. The **Konica Minolta CM-26dG** spectrophotometer.
+1. The [Konica Minolta CM-26dG](https://sensing.konicaminolta.eu/mi-en/products/colour-measurement/portable-spectrophotometers/cm-26dg-cm-26d) spectrophotometer.
 2. The [SpectralDB](https://github.com/C38C/SpectralDB).
    
 ---
