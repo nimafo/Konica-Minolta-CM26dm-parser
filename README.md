@@ -22,12 +22,6 @@ numpy
 colour-science
 ```
 
-Install with:
-
-```bash
-pip install pandas numpy colour-science
-```
-
 ---
 
 ## Usage
@@ -55,9 +49,7 @@ mat = GT_fromSpectralDB("spectral_db.csv", n=1)
 
 ---
 
-## CSV Format
-
-The input CSV must follow the CM-26dG export structure: **two rows per material** (one `SCI`, one `SCE`), with columns `L*(D65)`, `a*(D65)`, `b*(D65)`, `Target Name`, and wavelength columns `360nm` through `740nm`.
+⚠️⚠️⚠️ ***The input CSV must follow example structure, always match your data format to the example CSV before use.***
 
 ---
 
